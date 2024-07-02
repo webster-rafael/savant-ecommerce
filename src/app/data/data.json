@@ -1,0 +1,604 @@
+{
+  "products": [
+      {
+        "id": 1,
+        "title": "Adidas ADI2000",
+        "slug": "tenis-adidas-adi2000",
+        "price": 116,
+        "image": "/products/adidas/ADI2000/adi2000.png",
+        "cor2": "/products/adidas/ADI2000/IMG_3488.png",
+        "cor3": "/products/adidas/ADI2000/IMG_3554.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "adidas"
+      },
+
+      {
+        "id": 2,
+        "title": "Adidas Campus",
+        "slug": "tenis-adidas-campus",
+        "price": 119,
+        "image": "/products/adidas/CAMPUS/campus.png",
+        "cor2": "/products/adidas/CAMPUS/IMG_8528.jpg",
+        "cor3": "/products/adidas/CAMPUS/IMG_8530.jpg",
+        "description": "Moleton fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "adidas"
+      },
+
+      {
+        "id": 3,
+        "title": "Adidas Campus Bad Funny",
+        "slug": "tenis-adidas-campus-bad-funny",
+        "price": 109,
+        "image": "/products/adidas/CAMPUS_BAD_FUNNY/campus-badfunny.png",
+        "cor2": "/products/adidas/CAMPUS_BAD_FUNNY/IMG_2676.jpg",
+        "cor3": "/products/adidas/CAMPUS_BAD_FUNNY/IMG_2260.webp",
+        "description": "Moleton fabricado com 100% de algodão",
+        "featured": true,
+        "marca": "adidas"
+      },
+
+      {
+        "id": 4,
+        "title": "Adidas Fórum Low",
+        "slug": "tenis-adidas-forum-low",
+        "price": 145,
+        "image": "/products/adidas/FÓRUM_LOW/forum-low.png",
+        "cor2": "/products/adidas/FÓRUM_LOW/IMG_0232.png",
+        "cor3": "/products/adidas/FÓRUM_LOW/IMG_4144.png",
+        "description": "",
+        "featured": false,
+        "marca": "adidas"
+      },
+
+      {
+        "id": 5,
+        "title": "Adidas FutureCraft 4D",
+        "slug": "tenis-adidas-future-craft4d",
+        "price": 127,
+        "image": "/products/adidas/FUTURECRAFT/futurecraft.png",
+        "cor2": "/products/adidas/FUTURECRAFT/IMG_3837.png",
+        "cor3": "/products/adidas/FUTURECRAFT/IMG_7577.png",
+        "description": "",
+        "featured": false,
+        "marca": "adidas"
+      },
+
+      {
+        "id": 6,
+        "title": "Adidas Samba",
+        "slug": "tenis-adidas-samba",
+        "price": 115,
+        "image": "/products/adidas/SAMBA/samba.png",
+        "cor2": "/products/adidas/SAMBA/IMG_2768.webp",
+        "cor3": "/products/adidas/SAMBA/IMG_2769.webp",
+        "description": "",
+        "featured": false,
+        "marca": "adidas"
+      },
+
+      {
+        "id": 7,
+        "title": "Adidas Slip On",
+        "slug": "tenis-adidas-slip-on",
+        "price": 127,
+        "image": "/products/adidas/SLIP ON/slip-on.png",
+        "cor2": "/products/adidas/SLIP ON/IMG_0619.png",
+        "description": "",
+        "featured": false,
+        "marca": "adidas"
+      },
+
+      {
+        "id": 8,
+        "title": "Adidas Yeezy 350",
+        "slug": "tenis-adidas-yeezy-350",
+        "price": 157,
+        "image": "/products/adidas/YEEZY-350/yeezy-350.png",
+        "cor2": "/products/adidas/YEEZY-350/IMG_3954.png",
+        "cor3": "/products/adidas/YEEZY-350/IMG_9148.png",
+        "description": "",
+        "featured": false,
+        "marca": "adidas"
+      },
+
+      {
+        "id": 9,
+        "title": "Alexander McQueen",
+        "slug": "tenis-alexander-macqueen",
+        "price": 116,
+        "image": "/products/alexander/mcqueen.png",
+        "cor2": "/products/alexander/IMG_3238.png",
+        "cor3": "/products/alexander/IMG_3250.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "alexander"
+      },
+
+      {
+        "id": 10,
+        "title": "Armani EA7",
+        "slug": "tenis-armani-ea7",
+        "price": 143,
+        "image": "/products/armani/ARMANI_EA7/armani-ea7.png",
+        "cor2": "/products/armani/ARMANI_EA7/IMG_0680.png",
+        "cor3": "/products/armani/ARMANI_EA7/IMG_0087.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "armani"
+      },
+
+      {
+        "id": 11,
+        "title": "Boss Jonah",
+        "slug": "tenis-boss-jonah",
+        "price": 123,
+        "image": "/products/boss/BOSS JONAH/jonah.png",
+        "cor2": "/products/boss/BOSS JONAH/IMG_2855.png",
+        "cor3": "/products/boss/BOSS JONAH/IMG_2857.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "boss"
+      },
+
+      {
+        "id": 12,
+        "title": "Boss Ortholite",
+        "slug": "tenis-boss-ortholite",
+        "price": 134,
+        "image": "/products/boss/BOSS ORTHOLITE/ortholite.png",
+        "cor2": "/products/boss/BOSS ORTHOLITE/IMG_3439.png",
+        "cor3": "/products/boss/BOSS ORTHOLITE/IMG_3441.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "boss"
+      },
+
+      {
+        "id": 13,
+        "title": "Boss Titanium",
+        "slug": "tenis-boss-titanium",
+        "price": 145,
+        "image": "/products/boss/BOSS TITANIUM/titanium.png",
+        "cor2": "/products/boss/BOSS TITANIUM/IMG_9701.png",
+        "cor3": "/products/boss/BOSS TITANIUM/IMG_9669.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "boss"
+      },
+
+      {
+        "id": 15,
+        "title": "Chinelo Asuna",
+        "slug": "chinelo-asuna",
+        "price": 87,
+        "image": "/products/chinelo-asuna/asuna.png",
+        "cor2": "/products/chinelo-asuna/IMG_9018.png",
+        "cor3": "/products/chinelo-asuna/IMG_9198.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "chinelo"
+      },
+
+      {
+        "id": 16,
+        "title": "All Star",
+        "slug": "tenis-allstar",
+        "price": 187,
+        "image": "/products/converse/ALL STAR/allstars.png",
+        "cor2": "/products/converse/ALL STAR/IMG_1853.png",
+        "cor3": "/products/converse/ALL STAR/IMG_1857.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "converse"
+      },
+
+      {
+        "id": 17,
+        "title": "Diesel S-Racer",
+        "slug": "tenis-diesel",
+        "price": 137,
+        "image": "/products/diesel/diesel.png",
+        "cor2": "/products/diesel/IMG_9796.png",
+        "cor3": "/products/diesel/IMG_9797.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "diesel"
+      },
+
+      {
+        "id": 18,
+        "title": "D. Gabbana AirMaster",
+        "slug": "tenis-dolcegabbana-air-master",
+        "price": 214,
+        "image": "/products/dolce-gabbana/AIRMASTER/airmaster.png",
+        "cor2": "/products/dolce-gabbana/AIRMASTER/IMG_4712.png",
+        "cor3": "/products/dolce-gabbana/AIRMASTER/IMG_7043.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "d-gabbana"
+      },
+
+      {
+        "id": 19,
+        "title": "D. Gabbana DayMaster",
+        "slug": "tenis-dolcegabbana-day-master",
+        "price": 224,
+        "image": "/products/dolce-gabbana/DAYMASTER/daymaster.png",
+        "cor2": "/products/dolce-gabbana/DAYMASTER/IMG_3848.png",
+        "cor3": "/products/dolce-gabbana/DAYMASTER/IMG_1645.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "d-gabbana"
+      },
+
+      {
+        "id": 20,
+        "title": "D. Gabbana Portofino",
+        "slug": "tenis-dolcegabbana-portofino",
+        "price": 212,
+        "image": "/products/dolce-gabbana/PORTOFINO/portofino.png",
+        "cor2": "/products/dolce-gabbana/PORTOFINO/IMG_2821.png",
+        "cor3": "/products/dolce-gabbana/PORTOFINO/IMG_3419.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "d-gabbana"
+      },
+
+      {
+        "id": 21,
+        "title": "Chinelo Gucci",
+        "slug": "chinelo-gucci",
+        "price": 57,
+        "image": "/products/gucci/CHINELO/chinelo-gucci.png",
+        "cor2": "/products/gucci/CHINELO/IMG_2897.jpg",
+        "cor3": "/products/gucci/CHINELO/IMG_2781.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "gucci"
+      },
+
+      {
+        "id": 22,
+        "title": "Gucci Cano Baixo",
+        "slug": "tenis-gucci-cano-baixo",
+        "price": 151,
+        "image": "/products/gucci/CANO BAIXO/cano-baixo.png",
+        "cor2": "/products/gucci/CANO BAIXO/IMG_1581.jpg",
+        "cor3": "/products/gucci/CANO BAIXO/IMG_9928.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "gucci"
+      },
+
+      {
+        "id": 23,
+        "title": "Gucci Bolha",
+        "slug": "tenis-gucci-bolha",
+        "price": 125,
+        "image": "/products/gucci/BOLHA/bolha.png",
+        "cor2": "/products/gucci/BOLHA/IMG_7001.jpg",
+        "cor3": "/products/gucci/BOLHA/IMG_7003.jpg",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "gucci"
+      },
+
+      {
+        "id": 24,
+        "title": "Lacoste Athleisure",
+        "slug": "tenis-lacoste-athleisure",
+        "price": 357,
+        "image": "/products/lacoste/ATHLEISURE/athleisure.png",
+        "cor2": "/products/lacoste/ATHLEISURE/IMG_9415.png",
+        "cor3": "/products/lacoste/ATHLEISURE/IMG_9421.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "lacoste"
+      },
+
+      {
+        "id": 25,
+        "title": "Lacoste T Clip",
+        "slug": "tenis-lacoste-tclip",
+        "price": 313,
+        "image": "/products/lacoste/T CLIP/t-clip.png",
+        "cor2": "/products/lacoste/T CLIP/IMG_3388.png",
+        "cor3": "/products/lacoste/T CLIP/IMG_3459.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "lacoste"
+      },
+
+      {
+        "id": 26,
+        "title": "Louis Vuitton Skate",
+        "slug": "tenis-louis-vuitton-skate",
+        "price": 441,
+        "image": "/products/louis-vuitton/SKATE/skate.png",
+        "cor2": "/products/louis-vuitton/SKATE/IMG_1782.png",
+        "cor3": "/products/louis-vuitton/SKATE/IMG_0428.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "louis-v"
+      },
+
+      {
+        "id": 27,
+        "title": "Louis Vuitton Trainer",
+        "slug": "tenis-louis-vuitton-trainer",
+        "price": 418,
+        "image": "/products/louis-vuitton/TRAINER/trainer.png",
+        "cor2": "/products/louis-vuitton/TRAINER/IMG_9652.png",
+        "cor3": "/products/louis-vuitton/TRAINER/IMG_1862.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "louis-v"
+      },
+
+      {
+        "id": 29,
+        "title": "Mizuno Futur Wave",
+        "slug": "tenis-mizuno-futur-wave",
+        "price": 343,
+        "image": "/products/mizuno/FUTUR WAVE/futur-wave.png",
+        "cor2": "/products/mizuno/FUTUR WAVE/IMG_1209.png",
+        "cor3": "/products/mizuno/FUTUR WAVE/IMG_1210.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 30,
+        "title": "Mizuno Prophecy 1",
+        "slug": "tenis-mizuno-prophecy-1",
+        "price": 340,
+        "image": "/products/mizuno/PROPHECY 1/prophecy-1.png",
+        "cor2": "/products/mizuno/PROPHECY 1/IMG_0189.png",
+        "cor3": "/products/mizuno/PROPHECY 1/IMG_0179.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 31,
+        "title": "Mizuno Prophecy 2",
+        "slug": "tenis-mizuno-prophecy-2",
+        "price": 350,
+        "image": "/products/mizuno/PROPHECY 2/prophecy-2.png",
+        "cor2": "/products/mizuno/PROPHECY 2/IMG_5662.png",
+        "cor3": "/products/mizuno/PROPHECY 2/IMG_5663.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+
+      },
+
+      {
+        "id": 32,
+        "title": "Mizuno Prophecy 6",
+        "slug": "tenis-mizuno-prophecy-6",
+        "price": 314,
+        "image": "/products/mizuno/PROPHECY 6/prophecy-6.png",
+        "cor2": "/products/mizuno/PROPHECY 6/IMG_2284.png",
+        "cor3": "/products/mizuno/PROPHECY 6/IMG_3057.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 33,
+        "title": "Mizuno Prophecy 7",
+        "slug": "tenis-mizuno-prophecy-7",
+        "price": 340,
+        "image": "/products/mizuno/PROPHECY 7/prophecy-7.png",
+        "cor2": "/products/mizuno/PROPHECY 7/IMG_3802.png",
+        "cor3": "/products/mizuno/PROPHECY 7/IMG_2258.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 34,
+        "title": "Mizuno Prophecy 8",
+        "slug": "tenis-mizuno-prophecy-8",
+        "price": 356,
+        "image": "/products/mizuno/PROPHECY 8/prophecy-8.png",
+        "cor2": "/products/mizuno/PROPHECY 8/IMG_0131.png",
+        "cor3": "/products/mizuno/PROPHECY 8/IMG_0124.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 35,
+        "title": "Mizuno Prophecy 9",
+        "slug": "tenis-mizuno-prophecy-9",
+        "price": 312,
+        "image": "/products/mizuno/PROPHECY 9/prophecy-9.png",
+        "cor2": "/products/mizuno/PROPHECY 9/IMG_2233.png",
+        "cor3": "/products/mizuno/PROPHECY 9/IMG_2162.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 36,
+        "title": "Tênis Mizuno Prophecy 11",
+        "slug": "tenis-mizuno-prophecy-11",
+        "price": 335,
+        "image": "/products/mizuno/PROPHECY 11/prophecy-11.png",
+        "cor2": "/products/mizuno/PROPHECY 11/IMG_1296.png",
+        "cor3": "/products/mizuno/PROPHECY 11/IMG_0771.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 38,
+        "title": "Mizuno Prophecy 12",
+        "slug": "tenis-mizuno-prophecy-12",
+        "price": 355,
+        "image": "/products/mizuno/PROPHECY 12/prophecy-12.png",
+        "cor2": "/products/mizuno/PROPHECY 12/IMG_3360.png",
+        "cor3": "/products/mizuno/PROPHECY 12/IMG_2775.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 39,
+        "title": "Mizuno Prophecy 12S",
+        "slug": "tenis-mizuno-prophecy-12S",
+        "price": 339,
+        "image": "/products/mizuno/PROPHECY 12S/prophecy-12s.png",
+        "cor2": "/products/mizuno/PROPHECY 12S/IMG_0975.png",
+        "cor3": "/products/mizuno/PROPHECY 12S/IMG_0974.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 40,
+        "title": "Mizuno Prophecy 13",
+        "slug": "tenis-mizuno-prophecy-13",
+        "price": 378,
+        "image": "/products/mizuno/PROPHECY 13/prophecy-13.png",
+        "cor2": "/products/mizuno/PROPHECY 13/IMG_3261.png",
+        "cor3": "/products/mizuno/PROPHECY 13/IMG_6482.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 41,
+        "title": "Mizuno Prophecy Beta 1",
+        "slug": "tenis-mizuno-beta-1",
+        "price": 335,
+        "image": "/products/mizuno/PROPHECY BETA 1/beta-1.png",
+        "cor2": "/products/mizuno/PROPHECY BETA 1/IMG_9244.png",
+        "cor3": "/products/mizuno/PROPHECY BETA 1/IMG_9243.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 42,
+        "title": "Mizuno Prophecy Beta 2",
+        "slug": "tenis-mizuno-beta-2",
+        "price": 367,
+        "image": "/products/mizuno/PROPHECY BETA 2/beta-2.png",
+        "cor2": "/products/mizuno/PROPHECY BETA 2/IMG_5665.jpg",
+        "cor3": "/products/mizuno/PROPHECY BETA 2/IMG_5989.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 43,
+        "title": "Mizuno Prophecy LS",
+        "slug": "tenis-mizuno-ls",
+        "price": 455,
+        "image": "/products/mizuno/PROPHECY LS/prophecy-ls.png",
+        "cor2": "/products/mizuno/PROPHECY LS/IMG_5592.png",
+        "cor3": "/products/mizuno/PROPHECY LS/IMG_5345.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 44,
+        "title": "Mizuno Prophecy Sorayama",
+        "slug": "tenis-mizuno-sorayama",
+        "price": 567,
+        "image": "/products/mizuno/PROPHECY SORAYAMA/sorayama.png",
+        "cor2": "/products/mizuno/PROPHECY SORAYAMA/IMG_6970.jpg",
+        "cor3": "/products/mizuno/PROPHECY SORAYAMA/IMG_6973.jpg",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 45,
+        "title": "Mizuno Prophecy X",
+        "slug": "tenis-mizuno-x",
+        "price": 555,
+        "image": "/products/mizuno/PROPHECY X/prophecy-x.png",
+        "cor2": "/products/mizuno/PROPHECY X/IMG_2736.png",
+        "cor3": "/products/mizuno/PROPHECY X/IMG_2745.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "mizuno"
+      },
+
+      {
+        "id": 46,
+        "title": "New Balance Racer",
+        "slug": "tenis-new-balance-racer",
+        "price": 136,
+        "image": "/products/new-balance/RACER/racer.png",
+        "cor2": "/products/new-balance/RACER/IMG_0216.png",
+        "cor3": "/products/new-balance/RACER/IMG_3072.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "new balance"
+      },
+
+      {
+        "id": 47,
+        "title": "New Balance 9060",
+        "slug": "tenis-new-balance-9060",
+        "price": 145,
+        "image": "/products/new-balance/9060/9060.png",
+        "cor2": "/products/new-balance/9060/IMG_2722.png",
+        "cor3": "/products/new-balance/9060/IMG_2719.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "new balance"
+      },
+
+      {
+        "id": 48,
+        "title": "New Balance 9060 2.0",
+        "slug": "tenis-new-balance-9060.2.0",
+        "price": 156,
+        "image": "/products/new-balance/9060 2.0/9060-2.0.png",
+        "cor2": "/products/new-balance/9060 2.0/IMG_2998.png",
+        "cor3": "/products/new-balance/9060 2.0/IMG_3010.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "new balance"
+      },
+
+      {
+        "id": 49,
+        "title": "New Balance 997",
+        "slug": "tenis-new-balance-997",
+        "price": 183,
+        "image": "/products/new-balance/997/997.png",
+        "cor2": "/products/new-balance/997/IMG_4144.png",
+        "cor3": "/products/new-balance/997/IMG_4060.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster",
+        "featured": true,
+        "marca": "new balance"
+      }
+
+    ]
+  }
+
+ 
